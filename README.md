@@ -27,6 +27,7 @@ The entries having values equal to 1 are filtered from the model1 prediction dat
 Now, Random Forest Classifier has been applied to the filtered dataset from encoded training dataset and filtered predicted dataset of IS_HCP. 
 The final result data-frame contains the Taxonomies of those who are Health Care Persons.
 
-
+# Feature Engineering
+For the given problem statement of predicting whether a user belongs to the HCP (Healthcare Professional) category and determining their specialization taxonomy using ad server logs, here are some feature engineering steps you can consider: User Behavior Features, External Data Integration, Handling Missing Data, Feature Selection.
 
 
